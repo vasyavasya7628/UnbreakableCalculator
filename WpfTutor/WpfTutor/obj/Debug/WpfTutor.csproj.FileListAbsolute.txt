@@ -1,0 +1,15 @@
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\bin\Debug\WpfTutor.exe.config
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\bin\Debug\WpfTutor.exe
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\bin\Debug\WpfTutor.pdb
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.csprojAssemblyReference.cache
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\MainWindow.g.cs
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\App.g.cs
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor_MarkupCompile.cache
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor_MarkupCompile.lref
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\MainWindow.baml
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.g.resources
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.Properties.Resources.resources
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.csproj.GenerateResource.cache
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.exe
+D:\VisualStudio2019\Projects\WpfTutor\WpfTutor\obj\Debug\WpfTutor.pdb
